@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halildisli&show_icons=true&locale=en" alt="halildisli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halildisli&" alt="halildisli" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=halildisli&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
