@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <div>
-   <img src="https://pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg" alt="coding"/>
+   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="coding"/>
 </div>
 
 
