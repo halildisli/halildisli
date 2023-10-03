@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halil Ibrahim</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<div>
-   <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="coding"/>
-</div>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halildisli&label=Profile%20views&color=0e75b6&style=flat" alt="halildisli" /> </p>
 
